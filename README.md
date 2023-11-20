@@ -106,6 +106,10 @@ $ npm start
 
 ### Chatbot Responses Key
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/simple-chatbot/main/images/chatbot.png" alt="Grid" style="display:block;margin:auto;" height="500">
+</p>
+
 - **User Input: "hello"**
 
   - Bot Response: "Hi there! How can I help you?"
