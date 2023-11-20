@@ -83,9 +83,6 @@ $ git clone https://github.com/AlexisRodriguezCS/simple-chatbot.git
 # Change into the project directory:
 $ cd simple-chatbot
 
-# Go into the repository
-$ cd client
-
 # Run the following command to install the project dependencies:
 $ npm install
 
