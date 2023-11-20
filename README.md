@@ -29,7 +29,6 @@ The **Simple Chatbot** is like a talking computer friend you can play with on a 
 
 - React: A JavaScript library for building user interfaces, used to create the frontend of the chatbot.
 - CSS: Cascading Style Sheets for styling the components and providing a visually appealing chat interface.
-- Node.js: A JavaScript runtime environment for server-side development and managing the chatbot logic.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
