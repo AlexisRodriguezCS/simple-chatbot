@@ -1,8 +1,11 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/Task-Tracking/main/images/chatbot.png" alt="Grid" style="display:block;margin:auto;" height="500">
+  <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/simple-chatbot/main/images/chatbot.jpg" alt="Grid" style="display:block;margin:auto;" height="500">
 </p>
+
+<!-- Image by <a href="https://pixabay.com/users/alexandra_koch-621802/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7767693">Alexandra_Koch</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7767693">Pixabay</a> -->
+
 <h1 align="center">Simple Chatbot</h1>
 
 <!-- TABLE OF CONTENTS -->
